@@ -1,0 +1,40 @@
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DataStructuresProject- WPF\bin\Debug\DataStructuresProject- WPF.exe.config
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DataStructuresProject- WPF\bin\Debug\DataStructuresProject- WPF.exe
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DataStructuresProject- WPF\bin\Debug\DataStructuresProject- WPF.pdb
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\DataStructuresProject- UI.csprojAssemblyReference.cache
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\MainWindow.g.cs
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\App.g.cs
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\DataStructuresProject- WPF_MarkupCompile.cache
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\DataStructuresProject- WPF_MarkupCompile.lref
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\MainWindow.baml
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\DataStructuresProject- WPF.g.resources
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\DataStructuresProject__WPF.Properties.Resources.resources
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\DataStructuresProject- UI.csproj.GenerateResource.cache
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\DataStructuresProject- UI.csproj.CoreCompileInputs.cache
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\DataStructuresProject- WPF.exe
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\DataStructuresProject- WPF.pdb
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DataStructuresProject- WPF\bin\Debug\BL.dll
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DataStructuresProject- WPF\bin\Debug\Models.dll
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DataStructuresProject- WPF\bin\Debug\BL.pdb
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DataStructuresProject- WPF\bin\Debug\Models.pdb
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\DataStructuresProject- UI.csproj.CopyComplete
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\DataStructuresProject- WPF\bin\Debug\DataStructuresProject- WPF.exe.config
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\DataStructuresProject- WPF\bin\Debug\DataStructuresProject- WPF.exe
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\DataStructuresProject- WPF\bin\Debug\DataStructuresProject- WPF.pdb
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\DataStructuresProject- WPF\bin\Debug\BL.dll
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\DataStructuresProject- WPF\bin\Debug\Models.dll
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\DataStructuresProject- WPF\bin\Debug\BL.pdb
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\DataStructuresProject- WPF\bin\Debug\Models.pdb
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\DataStructuresProject- UI.csproj.AssemblyReference.cache
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\MainWindow.g.cs
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\App.g.cs
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\DataStructuresProject- WPF_MarkupCompile.cache
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\DataStructuresProject- WPF_MarkupCompile.lref
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\MainWindow.baml
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\DataStructuresProject- WPF.g.resources
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\DataStructuresProject__WPF.Properties.Resources.resources
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\DataStructuresProject- UI.csproj.GenerateResource.cache
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\DataStructuresProject- UI.csproj.CoreCompileInputs.cache
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\DataStructuresProject- UI.csproj.CopyComplete
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\DataStructuresProject- WPF.exe
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\DataStructuresProject- WPF\obj\Debug\DataStructuresProject- WPF.pdb

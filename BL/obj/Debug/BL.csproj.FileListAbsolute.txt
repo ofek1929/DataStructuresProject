@@ -1,0 +1,18 @@
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\BL\bin\Debug\BL.dll
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\BL\bin\Debug\BL.pdb
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\BL\bin\Debug\Models.dll
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\BL\bin\Debug\Models.pdb
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\BL\obj\Debug\BL.dll
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\BL\obj\Debug\BL.pdb
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\BL\bin\Debug\BL.dll
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\BL\bin\Debug\BL.pdb
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\BL\bin\Debug\Models.dll
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\BL\bin\Debug\Models.pdb
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\BL\obj\Debug\BL.dll
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\BL\obj\Debug\BL.pdb

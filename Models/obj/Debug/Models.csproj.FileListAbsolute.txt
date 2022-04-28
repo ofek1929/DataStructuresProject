@@ -1,0 +1,12 @@
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\Models\bin\Debug\Models.dll
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\Models\bin\Debug\Models.pdb
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\Models\obj\Debug\Models.dll
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\Models\obj\Debug\Models.pdb
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\Models\bin\Debug\Models.dll
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\Models\bin\Debug\Models.pdb
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\Models\obj\Debug\Models.dll
+C:\Users\ofek\Desktop\1030 לימודים סלע\עבודות לקורות חיים\DataStructuresProject\DataStructuresProject- WPF\Models\obj\Debug\Models.pdb

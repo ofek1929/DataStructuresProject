@@ -1,0 +1,28 @@
+﻿<Window x:Class="DataStructuresProject__WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataStructuresProject__WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btnBuy" Content="Buy" HorizontalAlignment="Left" Margin="695,29,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="btnBuy_Click"/>
+        <Button x:Name="btnShow" Content="Show" HorizontalAlignment="Left" Margin="594,29,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="btnShow_Click"/>
+        <Button x:Name="btnAdd" Content="Add" HorizontalAlignment="Left" Margin="488,29,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="btnAdd_Click" />
+        <TextBox x:Name="tbxX" HorizontalAlignment="Left" Height="23" Margin="90,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" PreviewTextInput ="NumberValidationTextBox"/>
+        <TextBox x:Name="tbxY" HorizontalAlignment="Left" Height="23" Margin="240,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" PreviewTextInput="tbxY_PreviewTextInput"/>
+        <TextBlock HorizontalAlignment="Left" Margin="300,8,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="Y"/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="143,8,0,0" TextWrapping="Wrap" Text="X" VerticalAlignment="Top" RenderTransformOrigin="4.905,0.625"/>
+        <ListBox x:Name="showListBox" HorizontalAlignment="Left" Height="297" Margin="128,124,0,0" VerticalAlignment="Top" Width="564"/>
+        <TextBlock HorizontalAlignment="Left" Margin="406,8,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="Amount"/><LineBreak/><Run/></TextBlock>
+        <TextBox x:Name="tbxAmount" HorizontalAlignment="Left" Height="23" Margin="391,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="75" PreviewTextInput="tbxAmount_PreviewTextInput"/>
+        
+        <TextBlock x:Name="tblAmountOfSplits" HorizontalAlignment="Left" Margin="316,60,0,0" TextWrapping="Wrap" Text="amount of splits" VerticalAlignment="Top" Width="109"/>
+        <TextBox x:Name="tbxSplits" HorizontalAlignment="Left" Height="23" Margin="305,86,0,0" TextWrapping="Wrap" Text="2" VerticalAlignment="Top" Width="120" PreviewTextInput="tbxSplits_PreviewTextInput"/>
+        <TextBlock x:Name="tblSplitInsure" HorizontalAlignment="Left" Margin="16,61,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="276"><Span Foreground="Blue" FontSize="12.6666666666667" FontFamily="Consolas"><Run Text="do you agree to split the your buy"/></Span></TextBlock>
+        <CheckBox x:Name="checkboxSplit" Content="alow splits" HorizontalAlignment="Left" Margin="69,88,0,0" VerticalAlignment="Top" Unchecked="CheckBox_Unchecked" Checked="CheckBox_Checked"/>
+        <Button x:Name="btnSendToBuy" Content="Button" HorizontalAlignment="Left" Margin="467,83,0,0" VerticalAlignment="Top" Width="75" Click="btnSendToBuy_Click"/>
+
+    </Grid>
+</Window>

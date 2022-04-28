@@ -1,0 +1,6 @@
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DAL\bin\Debug\DAL.dll
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DAL\bin\Debug\DAL.pdb
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DAL\obj\Debug\DAL.dll
+C:\Users\ofek\Desktop\1030 לימודים סלע\קטיה\פרויקט\DataStructuresProject- WPF\DAL\obj\Debug\DAL.pdb
